@@ -109,19 +109,34 @@ Reading and Updating data inside the Database
 Deleting and Updating booking sessions
 
 ## Technical Documentation References :
+
+About YCBM:
+
 [https://api.youcanbook.me/docs/index.html](https://api.youcanbook.me/docs/index.html)
+
+About pscycopg, how to integrate posgresql 
 
 [https://www.psycopg.org/docs/](https://www.psycopg.org/docs/)
 
 ## Tutorial References :
 
+Psycopg Part I 
+
 [https://www.youtube.com/watch?v=KuQUNHCeKCk&ab_channel=BekBrace](https://www.youtube.com/watch?v=KuQUNHCeKCk&ab_channel=BekBrace)
+
+Psycopg Part II 
 
 [https://www.youtube.com/watch?v=Q8iYj2ypWss&ab_channel=BekBrace](https://www.youtube.com/watch?v=Q8iYj2ypWss&ab_channel=BekBrace)
 
+Psycopg Part III
+
 [https://www.youtube.com/watch?v=8w3zHsEPFnQ&ab_channel=BekBrace](https://www.youtube.com/watch?v=8w3zHsEPFnQ&ab_channel=BekBrace)
 
+Psycopg Part IV 
+
 [https://www.youtube.com/watch?v=a_1AEYxwLi8&ab_channel=BekBrace](https://www.youtube.com/watch?v=a_1AEYxwLi8&ab_channel=BekBrace)
+
+Cronjob Tutorial
 
 [https://www.youtube.com/watch?v=7cbP7fzn0D8&ab_channel=LearnLinuxTV](https://www.youtube.com/watch?v=7cbP7fzn0D8&ab_channel=LearnLinuxTV)
 
